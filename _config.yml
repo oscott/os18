@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 permalink: pretty
