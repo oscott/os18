@@ -1,7 +1,6 @@
 ---
 title: Sun Stop Equal Night
 timezone: UTC
-theme: jekyll-theme-primer
 collections:
   posts:
     title: Posts
@@ -21,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+theme: jekyll-theme-primer
 permalink: pretty
